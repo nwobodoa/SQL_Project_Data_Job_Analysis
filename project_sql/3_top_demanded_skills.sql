@@ -17,7 +17,8 @@ WHERE job_title_short = 'Data Analyst'
 GROUP BY
     skills
 ORDER BY job_count DESC
-limit 5;
+limit 5
+;
 
 
 
